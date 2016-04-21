@@ -1,11 +1,6 @@
 {
 	"endpoints": [
 		{
-			"url": "/api/v1/influencer/me",
-			"verb": "GET",
-			"mock": "mocks/influencer.me.json"
-		},
-		{
 			"url": "/api/v1/publics/categories",
 			"verb": "GET",
 			"mock": "mocks/publics.categories.json"
