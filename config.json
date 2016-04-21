@@ -1,9 +1,9 @@
 {
 	"endpoints": [
 		{
-			"url": "/api/v1/user/me",
+			"url": "/api/v1/influencer/me",
 			"verb": "GET",
-			"mock": "mocks/user.me.json"
+			"mock": "mocks/influencer.me.json"
 		},
 		{
 			"url": "/api/v1/publics/categories",
