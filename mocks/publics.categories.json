@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "message": "Success",
+  "result": [
+    {
+      "children": [],
+      "name": "Charity",
+      "image": "bundles/app/img/categories/charity.png"
+    },
+    {
+      "children": [],
+      "name": "Entertainment",
+      "image": "bundles/app/img/categories/entertainment.png"
+    },
+    {
+      "children": [],
+      "name": "Fashion",
+      "image": "bundles/app/img/categories/fashion.png"
+    },
+    {
+      "children": [],
+      "name": "Lifestyle",
+      "image": "bundles/app/img/categories/lifestyle.png"
+    },
+    {
+      "children": [],
+      "name": "Sport",
+      "image": "bundles/app/img/categories/sport.png"
+    },
+    {
+      "children": [],
+      "name": "Travel",
+      "image": "bundles/app/img/categories/travel.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "message": "Success",
+  "result": [
+    	{
+    		"id": 1,
+    		"name": "Classic Sheffield 20mm",
+    		"description": "Con il suo cinturino in pelle nera, scura come le parti più profonde dell' oceano ...",
+    		"images": [
+    			{
+    				"http://www.example.com"
+    			}
+    		], 
+    		"agency": {
+    			"id": 1,
+    			"company_name": "Daniel Wellington",
+    			"logo": "http://www.example.com"
+    		}
+    	},
+    	{
+
+    	}
+    ]
+}

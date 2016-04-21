@@ -1,0 +1,45 @@
+{
+  "id": 31,
+  "email": "_red_button",
+  "enabled": true,
+  "firstName": "Red",
+  "lastName": "Button",
+  "createdAt": "2016-04-19T16:44:21+0200",
+  "lastUpdateOn": "2016-04-20T04:52:10+0200",
+  "socialAccounts": [
+    {
+      "id": 19,
+      "name": "instagram",
+      "realName": "Red Button",
+      "enabled": true,
+      "socialAssets": [
+        {
+          "id": 32,
+          "socialId": "23934465",
+          "name": "_red_button",
+          "countLikes": 101,
+          "username": "_red_button",
+          "appCategory": "Profile",
+          "picture": "https://scontent.cdninstagram.com/t51.2885-19/11379988_1670151973201207_51787939_a.jpg",
+          "enabled": true,
+          "socialType": "",
+          "countMen": 0,
+          "countFriends": 0,
+          "ageGenderObject": [],
+          "isAccount": true,
+          "status": "pending",
+          "followers": 101,
+          "followings": 223,
+          "social_asset_ext": "influencer_social_asset"
+        }
+      ],
+      "social_account_ext": "influencer_social_account"
+    }
+  ],
+  "fromSocial": true,
+  "cropData": [],
+  "picture": "https://scontent.cdninstagram.com/t51.2885-19/11379988_1670151973201207_51787939_a.jpg",
+  "imagePath": "https://scontent.cdninstagram.com/t51.2885-19/11379988_1670151973201207_51787939_a.jpg",
+  "bankingInfo": [],
+  "status": "enabled"
+}

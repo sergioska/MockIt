@@ -1,0 +1,15 @@
+{
+  "name": "freecommerce-mock-api",
+  "version": "0.0.1",
+  "description": "api mock service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Sicari",
+  "license": "Apache License",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs": "^0.0.2"
+  }
+}

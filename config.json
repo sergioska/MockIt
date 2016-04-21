@@ -1,0 +1,34 @@
+{
+	"endpoints": [
+		{
+			"url": "/api/v1/user/me",
+			"verb": "GET",
+			"mock": "mocks/user.me.json"
+		},
+		{
+			"url": "/api/v1/publics/categories",
+			"verb": "GET",
+			"mock": "mocks/publics.categories.json"
+		},
+		{
+			"url": "/api/v1/publics/category",
+			"verb": "GET",
+			"mock": "mocks/publics.category.json",
+			"params": [ "categoryId"]
+		}
+	],
+	"global": {
+		"port": 3000,
+		"errors": {
+			"access_token": {
+				"mock": "mocks/error.access_token.json"
+			},
+			"params": {
+				"mock": "mocks/error.params.json"
+			},
+			"verb": {
+				"mock": "mocks/error.verb.json"
+			}
+		}
+	}
+}
